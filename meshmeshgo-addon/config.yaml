@@ -6,7 +6,7 @@ version: "1.3.4"
 slug: "meshmeshgo-addon"
 
 url: https://github.com/EspMeshMesh/meshmeshgo
-image: ghcr.io/espmeshmesh/meshmeshgo
+image: ghcr.io/espmeshmesh/meshmeshgo-addon
 
 arch:
   - aarch64
