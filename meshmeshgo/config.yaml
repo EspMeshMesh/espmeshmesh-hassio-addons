@@ -2,7 +2,7 @@
 name: "MeshMeshGo Server"
 description: "The MeshMeshGo Server"
 
-version: "v1.3.4"
+version: "dev-v1.3.4"
 slug: "meshmeshgo"
 
 url: https://github.com/EspMeshMesh/meshmeshgo
