@@ -11,6 +11,9 @@ on:
       - synchronize
   workflow_dispatch:
 
+env:
+  INPUT_COMMUNITY: "false"
+
 jobs:
   workflows:
     uses: hassio-addons/workflows/.github/workflows/addon-ci.yaml@main
