@@ -46,17 +46,8 @@ ports:
 
 init: false
 startup: "services"
-boot: "auto"
 
 host_network: true
-#homeassistant_api: true
-#$hassio_api: true
-#audio: true
 usb: true
-#auth_api: true
-
 uart: true
-#devicetree: true
-
 ingress: true
-ingress_port: 8099
