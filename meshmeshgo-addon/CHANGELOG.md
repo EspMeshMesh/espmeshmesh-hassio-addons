@@ -1,4 +1,6 @@
-<!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.3.7
+
+- Moved web ui interface to web root for compatibility with ingress
 
 ## 1.3.6
 

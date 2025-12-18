@@ -6,3 +6,4 @@
 
 - Change version on the line MESHMESHGO_VERSION: "vX.Y.Z" in build.yaml
 - Change version on the line version: "X.Y.Z"
+- Add section to changelog
