@@ -1,6 +1,6 @@
 ---
 name: "MeshMeshGo Server"
-version: "1.3.9"
+version: "1.3.10"
 slug: "meshmeshgo-addon"
 description: "The MeshMeshGo Server"
 
@@ -24,6 +24,7 @@ options:
   BindPort: 6053
   BasePortOffset: 20000
   SizeOfPortsPool: 10000
+  DataFolder: "/data/"
 
 schema:
   SerialPortName: device(subsystem=tty)
@@ -39,6 +40,7 @@ schema:
   BindPort: int?
   BasePortOffset: int?
   SizeOfPortsPool: int?
+  DataFolder: str?
 
 ports:
   4040/tcp: 4040
