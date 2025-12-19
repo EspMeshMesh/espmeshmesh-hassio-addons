@@ -1,6 +1,6 @@
 ---
 name: "MeshMeshGo Server"
-version: "1.3.8"
+version: "1.3.9"
 slug: "meshmeshgo-addon"
 description: "The MeshMeshGo Server"
 
@@ -14,12 +14,12 @@ panel_icon: mdi:access-point-network
 homeassistant: 2025.9.0
 
 options:
-  SerialPortName: ""
+  SerialPortName: "/dev/ttyUSB0"
   SerialPortBaudRate: 460800
   WantHelp: false
   esp8266: false
   VerboseLevel: 0
-  RestBindAddress: ":4000"
+  RestBindAddress: "172.30.32.1:8090"
   BindAddress: "dynamic"
   BindPort: 6053
   BasePortOffset: 20000

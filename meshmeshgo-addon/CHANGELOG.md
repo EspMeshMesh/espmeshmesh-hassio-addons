@@ -1,3 +1,3 @@
-## 1.3.8
+## 1.3.9
 
 - Work with hassio ingress
