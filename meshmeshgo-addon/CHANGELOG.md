@@ -1,3 +1,7 @@
+## 1.3.13
+
+- Remvoed some log lines from registry
+
 ## 1.3.12
 
 - Config file is now optional
