@@ -1,6 +1,11 @@
+## 1.4.1
+
+- First implementation of deepsleep nodes
+
+
 ## 1.3.13
 
-- Remvoed some log lines from registry
+- Removoed some log lines from registry
 
 ## 1.3.12
 
