@@ -1,11 +1,14 @@
+## 1.4.3
+
+- First working version for deep sleep capable nodes.
+
 ## 1.4.2
 
-- Fix zerconf host domian for nodes
+- Fix zerconf host domain for nodes
 
 ## 1.4.1
 
 - First implementation of deepsleep nodes
-
 
 ## 1.3.13
 
