@@ -1,3 +1,7 @@
+## 1.4.2
+
+- Fix zerconf host domian for nodes
+
 ## 1.4.1
 
 - First implementation of deepsleep nodes
