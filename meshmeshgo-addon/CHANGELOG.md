@@ -1,3 +1,8 @@
+## 1.4.4
+
+- Added node type field
+- Fix audit for node dependecies
+
 ## 1.4.3
 
 - First working version for deep sleep capable nodes.
