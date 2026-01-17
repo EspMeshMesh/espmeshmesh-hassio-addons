@@ -1,3 +1,17 @@
+## 1.4.5
+
+### MeshmeshGo
+
+- Added reboot action in static nodes list
+- Fix Edit Node action in dynamic nodes list
+- Dashboard now show the application revision
+
+### HAOS Addon
+
+- Fix default port for ingress
+- Changed default baudrate
+- Removed unused port section
+
 ## 1.4.4
 
 - Added node type field
