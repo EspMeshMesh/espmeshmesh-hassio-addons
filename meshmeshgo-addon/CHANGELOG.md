@@ -1,3 +1,9 @@
+## 1.4.6
+
+### MeshmeshGo
+
+- Added new compile time format
+
 ## 1.4.5
 
 ### MeshmeshGo
