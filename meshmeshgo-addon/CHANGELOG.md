@@ -1,3 +1,10 @@
+## 1.4.7
+
+### MeshmeshGo
+
+- reduce number od backup files when edge nodes are present
+- fix program termination when no serial is present
+
 ## 1.4.6
 
 ### MeshmeshGo
