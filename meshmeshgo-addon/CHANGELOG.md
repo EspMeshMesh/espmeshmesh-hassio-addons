@@ -1,3 +1,10 @@
+## 1.4.8
+
+### MeshmeshGo
+
+- BRAKING  CJANGE: This version will not work with coordinators built before Oct-2025
+- fix CRC error during UART transfer with coordinator
+
 ## 1.4.7
 
 ### MeshmeshGo
