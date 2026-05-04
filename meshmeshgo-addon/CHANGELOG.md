@@ -1,3 +1,9 @@
+## 1.4.9
+
+### MeshmeshGo
+
+- fix: 100% cpu usage, PR from @tanishqmanuja
+
 ## 1.4.8
 
 ### MeshmeshGo
