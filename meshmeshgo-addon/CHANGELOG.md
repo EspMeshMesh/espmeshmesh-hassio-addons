@@ -1,3 +1,9 @@
+## 1.4.10
+
+### MeshmeshGo
+
+- Enhance thread safety in ConnectedPath2Serial by adding a mutex for packet callbacks
+
 ## 1.4.9
 
 ### MeshmeshGo
