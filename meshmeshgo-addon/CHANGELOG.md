@@ -1,3 +1,11 @@
+## 1.5.0
+
+### MeshmeshGo
+
+- Update frontend assets
+- Fix security vulnerabilities in frontend dependencies
+- Switch logging to logrus
+
 ## 1.4.10
 
 ### MeshmeshGo
